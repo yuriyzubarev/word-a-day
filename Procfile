@@ -1,1 +1,1 @@
-web: lein with-profile production trampoline run -m wad.handler $PORT
+web: lein trampoline run -m wad.handler $PORT
