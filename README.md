@@ -1,10 +1,10 @@
 # wad
 
-h3. Techniques
+## Techniques
 
 http://en.wikipedia.org/wiki/Spaced_repetition
 
-h3. Language resources
+## Language resources
 
 http://developer.wordnik.com/
 
@@ -35,6 +35,27 @@ You will need [Leiningen][1] 1.7.0 or above installed.
 To start a web server for the application, run:
 
     lein ring server
+
+Sample apps:
+
+https://github.com/abedra/shouter
+
+export PGHOST=localhost
+
+psql
+
+    \connect DBNAME
+
+    wad=# create table slides (
+    wad(# slideid bigserial PRIMARY KEY,
+    wad(# title text);
+    NOTICE:  CREATE TABLE will create implicit sequence "slides_slideid_seq" for serial column "slides.slideid"
+    NOTICE:  CREATE TABLE / PRIMARY KEY will create implicit index "slides_pkey" for table "slides"
+    CREATE TABLE
+
+    wad=# insert into slides (title) values ('first test title');
+
+
 
 ## License
 

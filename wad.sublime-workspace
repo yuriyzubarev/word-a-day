@@ -1,0 +1,584 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"c",
+				"currentWindow"
+			],
+			[
+				"per",
+				"personData"
+			],
+			[
+				"yA",
+				"yAxisName"
+			],
+			[
+				"Hi",
+				"HighchartsSprint"
+			],
+			[
+				"tt",
+				"ttickets_"
+			],
+			[
+				"tticket",
+				"ttickets"
+			],
+			[
+				"ne",
+				"nextPageIndex"
+			],
+			[
+				"get",
+				"getURLParameter"
+			],
+			[
+				"spri",
+				"sprint-id"
+			],
+			[
+				"epic",
+				"epic-key"
+			],
+			[
+				"dowl",
+				"download-issue-by-key"
+			],
+			[
+				"def",
+				"deftest"
+			],
+			[
+				"html",
+				"html-table-top"
+			],
+			[
+				"prin",
+				"print-sprint-snapshot"
+			],
+			[
+				"spr",
+				"sprint-issues"
+			],
+			[
+				"issue",
+				"issuetype"
+			],
+			[
+				"isu",
+				"issue-map"
+			],
+			[
+				"jiu",
+				"jissue"
+			],
+			[
+				"issu",
+				"issue-map"
+			],
+			[
+				"issue-m",
+				"issue-map-keys"
+			],
+			[
+				"dow",
+				"download-issue-changelog-histories-by-url"
+			],
+			[
+				"ge",
+				"get-in"
+			],
+			[
+				"test-d",
+				"test-difficulty"
+			],
+			[
+				"fe",
+				"fetch-exception-set"
+			],
+			[
+				"jd",
+				"jdoc-enriched"
+			],
+			[
+				"subs",
+				"substitute-with"
+			],
+			[
+				"fals",
+				"false-count"
+			],
+			[
+				"take",
+				"take-while-3"
+			],
+			[
+				"test",
+				"test-dir"
+			],
+			[
+				"le",
+				"lein4clojure"
+			],
+			[
+				"pro",
+				"project-name"
+			],
+			[
+				"ex",
+				"excercise-name"
+			],
+			[
+				"te",
+				"test-file-ns"
+			],
+			[
+				"e",
+				"excercise-ns"
+			],
+			[
+				"lei",
+				"leiningen"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 287.0,
+		"selected_items":
+		[
+			[
+				"prin",
+				"Print to HTML: print as HTML via browser"
+			],
+			[
+				"bloc",
+				"Toggle Block Comment"
+			],
+			[
+				"blo",
+				"Toggle Block Comment"
+			],
+			[
+				"pri",
+				"Print to HTML: print as HTML via browser"
+			],
+			[
+				"pr",
+				"Print to HTML: print as HTML via browser"
+			],
+			[
+				"print",
+				"Print to HTML: print as HTML via browser"
+			],
+			[
+				"pack",
+				"Package Control: Install Package"
+			],
+			[
+				"",
+				"Package Control: Install Package"
+			],
+			[
+				"pac",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 449.0
+	},
+	"console":
+	{
+		"height": 125.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/yzubarev/Downloads/report.txt",
+		"/Users/yzubarev/Downloads/error-processing-order-client-ids.csv",
+		"/Users/yzubarev/Downloads/error-processing-order.csv",
+		"/Users/yzubarev/Downloads/error-processing-order-client-ids-uniq.csv",
+		"/Users/yzubarev/Downloads/adam.txt",
+		"/Users/yzubarev/Downloads/yuriy.txt",
+		"/Users/yzubarev/Desktop/wlcc-review-1.txt",
+		"/Users/yzubarev/Desktop/frontend-review-1.txt",
+		"/Users/yzubarev/Desktop/frontend-review-2.txt",
+		"/Users/yzubarev/Desktop/frontend-review-3.txt",
+		"/Users/yzubarev/Desktop/frontend-ecom-2.txt",
+		"/Users/yzubarev/Desktop/frontend-ecom-1.txt",
+		"/Users/yzubarev/Desktop/frontend-ecom-3.txt",
+		"/Users/yzubarev/development/word-a-day/src/wad/handler.clj",
+		"/Volumes/data2/home/abewww/orderserver/log/shared.orderserver303.log",
+		"/Users/yzubarev/Documents/tva-oct-11-2012-kerry.txt",
+		"/Users/yzubarev/development/abe/tools/gojira/chromejira/jira.js",
+		"/Users/yzubarev/development/abe/tools/gojira/chromejira/manifest.json",
+		"/Users/yzubarev/development/abe/amazon-messaging/packaging/buildscript/build.xml",
+		"/Users/yzubarev/development/abe/chase/pom.xml",
+		"/Volumes/data2/home/abewww/orderserver/log/shared.orderserver339.log",
+		"/Users/yzubarev/development/abe/tools/tiger-dashboard/index.html",
+		"/Users/yzubarev/development/abe/tools/tiger-dashboard/test/jstest.html",
+		"/Users/yzubarev/development/abe/tools/tiger-dashboard/js/load-paginator.js",
+		"/Users/yzubarev/development/abe/tools/tiger-dashboard/js/paginator.js",
+		"/Users/yzubarev/development/abe/tools/tiger-dashboard/js/highcharts-sprint.js",
+		"/Users/yzubarev/development/abe/tools/tiger-dashboard/sprints-team.html",
+		"/Users/yzubarev/development/abe/tools/tiger-dashboard/orders.html",
+		"/Users/yzubarev/development/abe/tools/tiger-dashboard/last-sprint.html",
+		"/Users/yzubarev/development/abe/tools/tiger-dashboard/sprints.html",
+		"/Users/yzubarev/development/abe/tools/tiger-dashboard/orders-items-midnight.html",
+		"/Users/yzubarev/development/abe/tools/tiger-dashboard/last-sprint-data-stories.csv",
+		"/Users/yzubarev/development/abe/tools/tiger-dashboard/last-sprint-data-points.csv",
+		"/Users/yzubarev/development/abe/tools/tiger-dashboard/css/app.css",
+		"/Users/yzubarev/development/abe/tools/tiger-dashboard/index.css",
+		"/Users/yzubarev/.m2/settings.xml",
+		"/Users/yzubarev/development/abe/tools/tiger-dashboard/css/bootstrap.css",
+		"/Users/yzubarev/development/abe/tools/tiger-dashboard/example-dash.js",
+		"/Users/yzubarev/development/abe/tools/tiger-dashboard/js/backbone.js",
+		"/Users/yzubarev/development/abe/tools/tiger-dashboard/index.js",
+		"/Users/yzubarev/Library/Application Support/Sublime Text 2/Packages/User/Preferences.sublime-settings",
+		"/Users/yzubarev/Documents/hr-performance/2012-2013/mark-manager-review.txt",
+		"/Users/yzubarev/Documents/hr-performance/2012-2013/quincy-manager-review.txt",
+		"/Users/yzubarev/Documents/hr-performance/2012-2013/bill-manager-review.txt",
+		"/Users/yzubarev/Documents/hr-performance/2012-2013/adam-manager-review.txt",
+		"/Users/yzubarev/development/abe/tools/tiger-dashboard/README.md",
+		"/Users/yzubarev/development/abe/tools/tiger-dashboard/run_browser.sh",
+		"/Users/yzubarev/development/abe/tools/gojira/src/gojira/core.clj",
+		"/Users/yzubarev/development/abe/tools/gojira/test/gojira/core_test.clj",
+		"/Users/yzubarev/Desktop/message.xml",
+		"/Users/yzubarev/development/abe/tools/gojira/test/list.json",
+		"/Users/yzubarev/development/temp/tmp.txt",
+		"/Users/yzubarev/Documents/tiger-team-metrics.txt",
+		"/Users/yzubarev/Library/Application Support/Mou/CSS/GitHub2.css",
+		"/Users/yzubarev/development/abe/tools/subsccactivity/src/subsccactivity/core.clj",
+		"/Users/yzubarev/development/temp/zvab-cc.txt",
+		"/Users/yzubarev/development/temp/zvab-cc.txt.bak",
+		"/Users/yzubarev/Downloads/zvabown_bridge.sql",
+		"/Users/yzubarev/development/abe/tools/lt-network/project.clj",
+		"/Users/yzubarev/development/abe/tools/lt-network/src/lt_network/core.clj",
+		"/Users/yzubarev/development/abe/tools/gojira/project.clj",
+		"/Users/yzubarev/tmp/zvab-banks.txt",
+		"/Users/yzubarev/thank-you.csv",
+		"/Users/yzubarev/thank-you-before.csv",
+		"/Users/yzubarev/development/temp/Dependency Tree NEW.txt",
+		"/Users/yzubarev/development/temp/Dependency Tree OLD.txt",
+		"/Users/yzubarev/development/clojure-playground/test/lein4clojure/elementary/057_simple_recursion.clj",
+		"/Users/yzubarev/development/clojure-playground/test/lein4clojure/elementary/064_intro_to_reduce.clj",
+		"/Users/yzubarev/development/clojure-playground/test/lein4clojure/elementary/068_recurring_theme.clj",
+		"/Users/yzubarev/development/clojure-playground/test/lein4clojure/elementary/071_rearranging_code____.clj",
+		"/Users/yzubarev/development/clojure-playground/test/lein4clojure/elementary/001_nothing_but_the_truth.clj",
+		"/Users/yzubarev/development/clojure-playground/test/lein4clojure/elementary/002_simple_math.clj",
+		"/Users/yzubarev/development/clojure-playground/test/lein4clojure/elementary/003_intro_to_strings.clj",
+		"/Users/yzubarev/development/clojure-playground/test/lein4clojure/elementary/004_intro_to_lists.clj",
+		"/Users/yzubarev/development/clojure-playground/test/lein4clojure/elementary/006_intro_to_vectors.clj",
+		"/Users/yzubarev/development/clojure-playground/test/lein4clojure/elementary/005_lists__conj.clj",
+		"/Users/yzubarev/development/clojure-playground/test/lein4clojure/elementary/007_vectors__conj.clj",
+		"/Users/yzubarev/development/clojure-playground/test/lein4clojure/elementary/008_intro_to_sets.clj",
+		"/Users/yzubarev/development/clojure-playground/test/lein4clojure/elementary/009_sets__conj.clj",
+		"/Users/yzubarev/development/clojure-playground/test/lein4clojure/elementary/010_intro_to_maps.clj",
+		"/Users/yzubarev/development/clojure-playground/test/lein4clojure/elementary/011_maps__conj.clj",
+		"/Users/yzubarev/development/clojure-playground/test/lein4clojure/elementary/012_intro_to_sequences.clj",
+		"/Users/yzubarev/development/clojure-playground/test/lein4clojure/elementary/013_sequences__rest.clj",
+		"/Users/yzubarev/development/clojure-playground/test/lein4clojure/elementary/014_intro_to_functions.clj",
+		"/Users/yzubarev/development/clojure-playground/test/lein4clojure/elementary/015_double_down.clj",
+		"/Users/yzubarev/development/clojure-playground/test/lein4clojure/elementary/016_hello_world.clj",
+		"/Users/yzubarev/development/clojure-playground/test/lein4clojure/elementary/017_sequences__map.clj",
+		"/Users/yzubarev/development/clojure-playground/test/lein4clojure/elementary/018_sequences__filter.clj",
+		"/Users/yzubarev/development/clojure-playground/test/lein4clojure/elementary/035_local_bindings.clj",
+		"/Users/yzubarev/development/clojure-playground/test/lein4clojure/elementary/036_let_it_be.clj",
+		"/Users/yzubarev/development/clojure-playground/test/lein4clojure/elementary/037_regular_expressions.clj",
+		"/Users/yzubarev/development/clojure-playground/test/lein4clojure/elementary/072_rearranging_code_____.clj",
+		"/Users/yzubarev/development/clojure-playground/test/lein4clojure/elementary/134_a_nil_key.clj",
+		"/Users/yzubarev/development/abe/legacy/tomcat/logs/catalina.out",
+		"/Users/yzubarev/development/abe/legacy/tomcat/logs/log4j.ABEappDevLocal.log",
+		"/Users/yzubarev/development/abe/legacy/tomcat/tomcat_start.sh",
+		"/Users/yzubarev/Downloads/buyer_refund.patch",
+		"/Users/yzubarev/development/abe/abebooks/R13_3_get_client_credit_card_tokens.patch",
+		"/Users/yzubarev/log4j.ABEauthQ2.log",
+		"/Users/yzubarev/development/abe/legacy/tomcat/logs/log4j.ABEappDevLocal-audit-service.log",
+		"/Users/yzubarev/Library/Caches/TemporaryItems/Outlook Temp/ClientBankInfoAnalysis/clientsInActiveRows",
+		"/Users/yzubarev/Library/Caches/TemporaryItems/Outlook Temp/ClientBankInfoAnalysis/clientsActiveRows",
+		"/Users/yzubarev/Library/Caches/TemporaryItems/Outlook Temp/ClientBankInfoAnalysis/vendorsInActiveRows",
+		"/Users/yzubarev/Library/Caches/TemporaryItems/Outlook Temp/ClientBankInfoAnalysis/vendorsActiveRows",
+		"/Users/yzubarev/Documents/a.txt",
+		"/Users/yzubarev/Documents/Top/data handling standard_files/application-00fe2b5992c22eb2e111696964060aa8.css",
+		"/Users/yzubarev/Documents/Top/data handling standard.htm",
+		"/Users/yzubarev/Documents/Top/data classification catalog_files/application-00fe2b5992c22eb2e111696964060aa8.css",
+		"/Users/yzubarev/Documents/Top/data classification catalog.htm",
+		"/Users/yzubarev/Documents/Top/data classification catalog_files/application-e6094987e0214795f365b9e0503085df.js",
+		"/Users/yzubarev/Downloads/a.txt",
+		"/Users/yzubarev/Documents/issues.tab",
+		"/Users/yzubarev/Downloads/xnomad 0.4/xnomad.default",
+		"/Volumes/batch/amp/subscriber/queue/confirmemailsubscriber2/nohup.out",
+		"/Volumes/batch/amp/subscriber/queue/ftpeventsubscriber0/conf/log4j.properties",
+		"/Volumes/batch/amp/subscriber/queue/amp_orderstatusupdateeventsubscriber0/log/batch.calrsvc05.abebooks.com.log.2013-02-13",
+		"/Users/yzubarev/development/abe/abebooks-tims/tims-service/src/main/resources/com/abebooks/tims/dao/TransactionDAO.sql.stg",
+		"/Users/yzubarev/Documents/spec-by-example.txt",
+		"/Users/yzubarev/development/lein4clojure/test/lein4clojure/elementary/036_let_it_be.clj",
+		"/Users/yzubarev/development/abe/abebooks-tims/tims-service-common/src/main/resources/com/abebooks/tims/dao/TimsDAO.sql.stg",
+		"/Users/yzubarev/development/abe/abebooks-tims/tims-service-common/src/main/java/com/abebooks/tims/dao/TimsDAO.groovy",
+		"/Users/yzubarev/Documents/running_legacy.txt",
+		"/Users/yzubarev/development/abe/abebooks-tims/tims-service-common/src/main/java/com/abebooks/tims/core/EmailAudit.groovy",
+		"/Users/yzubarev/development/lein4clojure/src/resources/test.mustache",
+		"/Users/yzubarev/development/lein4clojure/src/leiningen/lein4clojure.clj",
+		"/Users/yzubarev/development/lein4clojure/project.clj",
+		"/Users/yzubarev/Documents/tms-7820-text.txt",
+		"/Users/yzubarev/Documents/monica-ttt.txt"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			"/Users/yzubarev/Documents/Top",
+			"/Users/yzubarev/development/abe/legacy"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"\\n",
+			" ",
+			"^\\s*",
+			"\\n",
+			"ID: ",
+			"ID: (\\d*)",
+			"^\".*order \"",
+			"orgName=.*@",
+			"orgName=.",
+			"orgName=",
+			"Invalid action user",
+			"nextPageIndex",
+			"00FF00",
+			"1",
+			"]\n",
+			"',\n",
+			"\n            ",
+			"\n",
+			"stories",
+			"Bank",
+			"400px",
+			"Task",
+			"dow",
+			"Pears",
+			"Oranges",
+			"State",
+			"Epic",
+			"h5",
+			"container-f",
+			"container",
+			"text-align",
+			"pagina",
+			"id=\\\"g\\d-\\d\\\" ",
+			"align",
+			"      <div class=\"row-fluid\">\n        <div id=\"g1-1\" class=\"span6\">\n          <img src=\"http://cacti.abebooks.com/cacti/graph_image.php?action=view&local_graph_id=1169&rra_id=5\"/>\n        </div>\n        <div id=\"g1-2\" class=\"span6\">\n          <img src=\"http://cacti.abebooks.com/cacti/graph_image.php?action=view&local_graph_id=1169&rra_id=1\"/>\n        </div>\n      </div>\n\n",
+			"getURLParameter",
+			"    ",
+			"call(",
+			"(defn mock-download-sprint-issues! [sprint-id server-options]\n    (get-in (read-string (slurp \"test/list.json\")) [:body :issues]))\n\n",
+			"\\/",
+			"\\n",
+			"is",
+			"Initiated",
+			":",
+			"-##.*",
+			"^.*##-",
+			"httpcl",
+			"rev",
+			"effort",
+			"effot",
+			"6050",
+			"should",
+			"leading",
+			"sometimes",
+			"often",
+			"team",
+			"download-sprint-issues",
+			"PKGI.*",
+			" amp",
+			"amp",
+			"abeamp",
+			"tims",
+			"wlcc",
+			"ccbb",
+			"abe",
+			"ecom",
+			"chba",
+			"ampr",
+			"ldap",
+			"ampq",
+			"chsp",
+			"\\n",
+			"accountId=",
+			"accountId=\\d*",
+			"format-issue-map",
+			"\\n",
+			"accountId=",
+			"accountId=\\d*",
+			"accountId\\d",
+			",",
+			"s/",
+			"!c",
+			"!cr",
+			"ERROR ",
+			"ERROR",
+			"SpringEnvironment",
+			"selectoptionlist",
+			"txWrappedBuyerRefundHelper",
+			"BuyerRefundHelper",
+			"contex",
+			"contextbui",
+			">order-service",
+			"credit-card-service.xml",
+			"test",
+			"abepoitem-l",
+			"loading-indicator",
+			"loading",
+			"10280",
+			"customfield_10280",
+			"]))\n",
+			"9695",
+			"\\n",
+			"ABE:",
+			"\\n",
+			"ABE:",
+			"assoc-changelog",
+			"extract-changelog",
+			"print-sprint-flow",
+			"print-sprint-snapshot",
+			"download-issue-changelog-histories-by-url",
+			"download-issue-by-key",
+			"download-sprint-issues",
+			"call-jira-api",
+			"l",
+			" ()",
+			"sprint-flow",
+			"cissue-keys",
+			"        :",
+			"issue",
+			"Issue",
+			"issue",
+			"format-sprint-snapshot",
+			"extract-search-issue-data",
+			"extract-status",
+			"extract-story-points",
+			"fields",
+			"issues",
+			"download-issue-by-url"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+			",",
+			"h3",
+			"",
+			",",
+			"\\n",
+			",",
+			"",
+			",",
+			"",
+			","
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 242.0
+	},
+	"output.unsaved_changes":
+	{
+		"height": 429.0
+	},
+	"replace":
+	{
+		"height": 64.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 211.0,
+	"status_bar_visible": true
+}
