@@ -7,7 +7,7 @@
             [clojure.java.jdbc :as sql]))
 
 (defn -db-url []
-  (let [sys-db-url (System/getenv "DATABASE_URL")]
+  (let [sys-db-url (System/getenv "HEROKU_POSTGRESQL_OLIVE_URL")]
     (println (str "sys-db-url = " sys-db-url))
     (if (nil? sys-db-url)
       "postgresql://localhost:5432/wad"
