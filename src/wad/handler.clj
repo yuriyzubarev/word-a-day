@@ -8,6 +8,7 @@
 
 (defn -db-url []
   (let [sys-db-url (System/getenv "DATABASE_URL")]
+    (println (str "sys-db-url = " sys-db-url))
     (if (nil? sys-db-url)
       "postgresql://localhost:5432/wad"
       sys-db-url)))
