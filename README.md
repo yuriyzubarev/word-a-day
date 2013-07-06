@@ -45,16 +45,14 @@ export PGHOST=localhost
 psql
 
     \connect DBNAME
+    \list (list of dbs)
+    \dt (lis of all tables in the current db)
 
-    wad=# create table slides (
-    wad(# slideid bigserial PRIMARY KEY,
-    wad(# title text);
-    NOTICE:  CREATE TABLE will create implicit sequence "slides_slideid_seq" for serial column "slides.slideid"
-    NOTICE:  CREATE TABLE / PRIMARY KEY will create implicit index "slides_pkey" for table "slides"
-    CREATE TABLE
-
-    wad=# insert into slides (title) values ('first test title');
-
+    sudo -u postgres psql postgres (https://help.ubuntu.com/community/PostgreSQL)
+    	 CREATE USER tom WITH PASSWORD 'myPassword';
+    	 CREATE DATABASE jerry;
+    	 GRANT ALL PRIVILEGES ON DATABASE jerry to tom;
+	sudo -u yzubarev psql wad
 
 
 ## License
