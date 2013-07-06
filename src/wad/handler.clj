@@ -4,14 +4,14 @@
   (:require [compojure.handler :as handler]
             [compojure.route :as route]
             [ring.adapter.jetty :as ring]
-            [clojure.java.jdbc :as sql]))
+            [clojure.java.jdbc :as sql]
+            [taoensso.timbre :as timbre
+              :refer (trace debug info warn error fatal spy)]))
 
 (defn -db-url []
   (let [sys-db-url (System/getenv "DATABASE_URL")]
-    (println (str "sys-db-url = " sys-db-url))
-    (if (nil? sys-db-url)
-      "postgresql://localhost:5432/wad"
-      sys-db-url)))
+    (debug (str "sys-db-url = " sys-db-url))
+    sys-db-url))
 
 (defroutes app-routes
   (GET "/" []

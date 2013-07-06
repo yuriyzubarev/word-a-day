@@ -7,7 +7,8 @@
     	           [ring/ring-jetty-adapter "1.1.0"]
                  [hiccup "1.0.3"]
                  [org.clojure/java.jdbc "0.2.3"]
-                 [postgresql "9.1-901.jdbc4"]]
+                 [postgresql "9.1-901.jdbc4"]
+                 [com.taoensso/timbre "2.1.2"]]
   :plugins [[lein-ring "0.8.3"]]
   :ring {:handler wad.handler/app}
   :profiles
